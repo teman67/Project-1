@@ -14,37 +14,27 @@ body {
     background-color: #f7f7f7;
 }
 
-.home-header {
-    background-image: url('../images/Iran_main2_crop.jpg');
+header,
+.ancient-header,
+.modern-header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-
-    color: rgb(247, 233, 233);
+    color: #f7e9e9;
     padding: 50px;
     text-align: center;
+}
+
+.home-header {
+    background-image: url('../images/Iran_main2_crop.jpg');
 }
 
 .ancient-header {
     background-image: url('../images/Iran_ancient_crop.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-    color: rgb(247, 233, 233);
-    padding: 50px;
-    text-align: center;
 }
 
 .modern-header {
     background-image: url('../images/Iran_modern.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-    color: rgb(247, 233, 233);
-    padding: 50px;
-    text-align: center;
 }
 
 .wrapper {
@@ -53,30 +43,36 @@ body {
     min-height: 100vh;
 }
 
-.intro-text {
+.intro-text,
+.video-container,
+.subscription-form {
     max-width: 800px;
-    margin: 0 auto;
-    padding: 40px 20px;
-    background-color: rgba(255, 255, 255, 0.9);
+    margin: 20px auto;
+    padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.intro-text h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-    color: #333;
+.intro-text {
+    background-color: rgba(255, 255, 255, 0.9);
 }
 
-.intro-text p {
+.subscription-form,
+form {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2,
+p {
     font-size: 18px;
-    line-height: 1.6;
-    margin-bottom: 20px;
-    color: #555;
 }
 
 nav ul {
     list-style: none;
+    padding: 0;
 }
 
 nav ul li {
@@ -86,9 +82,8 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: rgb(252, 252, 252);
+    color: #fcfcfc;
     font-size: large;
-
 }
 
 main {
@@ -100,7 +95,6 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px;
-
 }
 
 /* Media queries for responsiveness */
@@ -112,31 +106,26 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
-    h1 {
-        font-size: 24px;
-    }
 
-    h2 {
-        font-size: 20px;
-    }
-
+    h1,
+    h2,
     p {
         font-size: 16px;
     }
 }
 
 .video-container {
-    max-width: 800px;
-    margin: 20px auto;
+    max-width: 400px;
+    margin: 10px auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 0.5px solid #ccc;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .video-container iframe {
     width: 100%;
-    height: 400px;
+    height: 225px;
     border: none;
     border-radius: 10px;
 }
