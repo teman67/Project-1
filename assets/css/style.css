@@ -1,227 +1,63 @@
-/* Reset some default browser styles */
+/* Reset some default styling */
 body,
 h1,
 h2,
-p {
+p,
+ul,
+li {
     margin: 0;
     padding: 0;
 }
 
-/* Basic styling */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f7f7f7;
 }
 
 header,
-.ancient-header,
-.modern-header {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: #f7e9e9;
-    padding: 50px;
+nav,
+section,
+footer {
+    margin: 20px;
+    padding: 20px;
+}
+
+header,
+footer {
+    background-color: #f2f2f2;
     text-align: center;
-}
-
-.home-header {
-    background-image: url('../images/Iran_main2_crop.jpg');
-}
-
-.ancient-header {
-    background-image: url('../images/Iran_ancient_crop.jpg');
-}
-
-.modern-header {
-    background-image: url('../images/Iran_modern.jpg');
-}
-
-.wrapper {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-.intro-text,
-.video-container,
-.subscription-form {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.intro-text {
-    background-color: rgba(255, 255, 255, 0.9);
-}
-
-.subscription-form,
-form {
-    background-color: #fff;
-    padding: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-h1,
-h2,
-p {
-    font-size: 18px;
 }
 
 nav ul {
     list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 nav a {
     text-decoration: none;
-    color: #fcfcfc;
-    font-size: large;
+    margin: 0 10px;
+    color: #333;
+    font-weight: bold;
 }
 
-main {
-    padding: 20px;
+section {
+    background-color: #fff;
 }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-}
-
-/* Media queries for responsiveness */
-@media screen and (max-width: 768px) {
-    nav ul li {
-        display: block;
-        margin: 10px 0;
-    }
-}
-
-@media screen and (max-width: 480px) {
-
-    h1,
-    h2,
-    p {
-        font-size: 16px;
-    }
-}
-
-.video-container {
-    max-width: 400px;
-    margin: 10px auto;
-    padding: 20px;
-    border: 0.5px solid #ccc;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.video-container iframe {
-    width: 100%;
-    height: 225px;
-    border: none;
-    border-radius: 10px;
-}
-
-video {
+img {
     max-width: 100%;
     height: auto;
-    border: 1px solid #ccc;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Styling for the subscription form */
-form {
-    margin-top: 20px;
-    max-width: 400px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
+/* Add responsive styles here */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
 
-label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-    color: #333;
-}
-
-input[type="email"] {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    margin-bottom: 10px;
-}
-
-button[type="submit"] {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 3px;
-    cursor: pointer;
-}
-
-button[type="submit"]:hover {
-    background-color: #555;
-}
-
-.subscription-form {
-    max-width: 500px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f7f7f7;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.subscription-form h3 {
-    font-size: 24px;
-    margin-bottom: 10px;
-    color: #333;
-}
-
-.subscription-form p {
-    font-size: 16px;
-    margin-bottom: 20px;
-    color: #555;
-}
-
-.subscription-form label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-    color: #333;
-}
-
-.subscription-form input[type="text"],
-.subscription-form input[type="email"] {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    margin-bottom: 15px;
-}
-
-.subscription-form button[type="submit"] {
-    background-color: #333;
-    color: #fff;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 3px;
-    cursor: pointer;
-}
-
-.subscription-form button[type="submit"]:hover {
-    background-color: #555;
+    nav a {
+        margin: 5px;
+    }
 }
