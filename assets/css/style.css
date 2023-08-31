@@ -20,6 +20,10 @@ li {
     padding: 0;
 }
 
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
