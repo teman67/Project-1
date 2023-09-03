@@ -99,6 +99,7 @@ footer {
 footer>p {
     color: black;
     font-size: 140%;
+    font-family: Lato, sans-serif;
 }
 
 nav ul {
@@ -141,7 +142,28 @@ video {
 
 #index-content {
     flex: 1;
-    text-align: justify;
+    text-align: left;
+    margin-left: 10px;
+}
+
+/* Add this CSS to your existing stylesheet */
+.order-images {
+    display: flex;
+    background-color:black;
+    /* Make the images flex items */
+    justify-content:space-around;
+    /* Add space between images */
+}
+
+.order-images img {
+    width: 300px;
+    /* Set a common width for all images */
+    height: 300px;
+    /* Set a common height for all images */
+    object-fit: contain;
+    /* Ensure images maintain aspect ratio */
+    margin-right: 10px;
+    /* Add space between images horizontally */
 }
 
 /* Add responsive styles here */
