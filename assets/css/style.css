@@ -3,6 +3,7 @@
 /* Reset some default styling */
 body {
     font-family: Lato, sans-serif;
+    background-color: black;
     font-weight: 300%;
 }
 
@@ -31,6 +32,8 @@ h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
+    color: white;
+
 }
 
 p,
@@ -40,6 +43,8 @@ li {
     font-family: Lato, sans-serif;
     font-weight: 300;
     padding: 0;
+    color: white;
+    font-size: 130%;
 }
 
 .active {
@@ -68,10 +73,10 @@ footer {
     overflow: hidden;
     margin-left: 70px;
 
-    /* animates zoom effect on loading page */
+    /* animates zoom effect on loading page 
     animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
+    animation-fill-mode: forwards;*/
 }
 
 /* creates the level of zoom for hero image */
@@ -89,6 +94,11 @@ header,
 footer {
     background-color: #f2f2f2;
     text-align: center;
+}
+
+footer>p {
+    color: black;
+    font-size: 140%;
 }
 
 nav ul {
@@ -111,6 +121,27 @@ section {
 img {
     max-width: 100%;
     height: auto;
+}
+
+.kid-image {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.video-container {
+    flex: 1;
+    margin-right: 20px;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
+
+#index-content {
+    flex: 1;
+    text-align: justify;
 }
 
 /* Add responsive styles here */
