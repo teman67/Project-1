@@ -228,7 +228,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    
+
 }
 
 .about-content {
@@ -236,7 +236,7 @@ footer {
     align-items: left;
     flex-wrap: wrap;
     /* Allow content to wrap on smaller screens */
-    
+
 }
 
 .about img {
@@ -260,4 +260,19 @@ footer {
     font-size: 18px;
     /* Adjust the text size as needed */
 
+}
+
+/* Add this CSS to your existing stylesheet */
+.icon-text-container {
+    display: flex;
+    /* Use flexbox to arrange the icon and text side by side */
+    align-items: center;
+    /* Vertically center the icon and text */
+}
+
+.icon-text-container i {
+    margin-right: 10px;
+    /* Add spacing between the icon and text */
+    font-size: 24px;
+    /* Adjust the icon size as needed */
 }
