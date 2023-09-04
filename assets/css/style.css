@@ -221,3 +221,43 @@ footer {
     padding: 20px;
     background-color: black;
 }
+
+
+/* Add this CSS to your existing stylesheet */
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.about-content {
+    display: flex;
+    align-items: left;
+    flex-wrap: wrap;
+    /* Allow content to wrap on smaller screens */
+    
+}
+
+.about img {
+    max-width: 12%;
+    max-height: 10%;
+    /* Adjust the image width as needed */
+    height: auto;
+    margin-right: 20px;
+    margin-left: 50%;
+    /* Add spacing between the image and text */
+
+}
+
+.about h2 {
+    max-width: 20%;
+}
+
+.about p {
+    max-width: 30%;
+    /* Adjust the text width as needed */
+    font-size: 18px;
+    /* Adjust the text size as needed */
+
+}
