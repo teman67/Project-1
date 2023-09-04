@@ -220,6 +220,8 @@ header {
 footer {
     padding: 20px;
     background-color: black;
+    /*position: sticky;
+    bottom: 0;*/
 }
 
 
@@ -268,11 +270,13 @@ footer {
     /* Use flexbox to arrange the icon and text side by side */
     align-items: center;
     /* Vertically center the icon and text */
+    font-size: 25px;
 }
 
 .icon-text-container i {
     margin-right: 10px;
     /* Add spacing between the icon and text */
-    font-size: 24px;
+    font-size: 26px;
     /* Adjust the icon size as needed */
+    color: rgb(2, 161, 2);
 }
