@@ -229,7 +229,7 @@ footer {
 .about {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 
 }
 
@@ -254,8 +254,9 @@ footer {
 
 }
 
-.about h2 {
+.about>h2 {
     max-width: 20%;
+
 }
 
 .about p {
@@ -281,4 +282,43 @@ footer {
     font-size: 26px;
     /* Adjust the icon size as needed */
     color: rgb(2, 161, 2);
+}
+
+.subscription-form {
+    background-image: url(../images/header.webp);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+
+}
+
+.subscription-form label {
+    color: white;
+    font-size: 140%;
+
+}
+
+.subscription-form h3 {
+    color: white;
+    text-align: center;
+    font-size: 220%;
+    margin-top: 0px;
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 30px;
+}
+
+.subscription-form p {
+    text-align: center;
+    color: white;
+    font-size: 180%;
+    left: 10%;
+    padding: 10px;
 }
