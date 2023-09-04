@@ -95,7 +95,7 @@ nav {
 header,
 footer {
     background-color: #f2f2f2;
-    
+
 }
 
 footer>p {
@@ -217,7 +217,7 @@ header {
     color: white;
 }
 
-footer{
+footer {
     padding: 20px;
     background-color: black;
 }
