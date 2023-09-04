@@ -239,16 +239,18 @@ footer {
     flex-wrap: wrap;
     /* Allow content to wrap on smaller screens */
 
+
 }
 
 .about img {
-    max-width: 12%;
+    max-width: 14%;
     max-height: 10%;
     /* Adjust the image width as needed */
     height: auto;
     margin-right: 20px;
     margin-left: 50%;
     /* Add spacing between the image and text */
+    border-radius: 60%;
 
 }
 
