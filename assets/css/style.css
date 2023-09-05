@@ -427,13 +427,13 @@ hr {
 .image-column {
     flex-basis: calc(33.33% - 10px);
     /* Set to 33.33% for three columns with a 10px gap */
-    margin-bottom: 10px;
+
     /* Add a gap between rows */
 }
 
 /* Style the images to have a max width and height */
 #photos-activities img {
-    width: 430px;
+    width: 100%;
     height: 300px;
     display: cover;
     gap: 10px;
