@@ -238,32 +238,27 @@ footer {
     align-items: left;
     flex-wrap: wrap;
     /* Allow content to wrap on smaller screens */
-
-
 }
+
 
 .about img {
     max-width: 14%;
     max-height: 10%;
     /* Adjust the image width as needed */
     height: auto;
-    margin-right: 20px;
+    margin-right: 30px;
     margin-left: 50%;
     /* Add spacing between the image and text */
     border-radius: 60%;
 
 }
 
-.about>h2 {
-    max-width: 20%;
-
-}
-
 .about p {
     max-width: 30%;
     /* Adjust the text width as needed */
-    font-size: 18px;
+    font-size: 20px;
     /* Adjust the text size as needed */
+    font-family: Lato, sans-serif;
 
 }
 
@@ -404,4 +399,18 @@ hr {
     letter-spacing: 3px;
     font-family: Lato, sans-serif;
 
+}
+
+#h2-activities {
+    margin-left: 30px;
+    font-size: 35px;
+    letter-spacing: 4px;
+}
+
+.lessons {
+    margin-left: 30px;
+}
+
+.lessons li {
+    list-style: none;
 }
