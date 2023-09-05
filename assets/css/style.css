@@ -326,3 +326,8 @@ footer {
     padding-left: 20px;
     max-width: 70%;
 }
+
+hr {
+    color: white;
+    margin-top: 70px;
+}
