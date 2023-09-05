@@ -414,3 +414,27 @@ hr {
 .lessons li {
     list-style: none;
 }
+
+/* Create three columns */
+#photos-activities {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 30px 30px 30px 30px;
+}
+
+/* Style the image columns */
+.image-column {
+    flex-basis: calc(33.33% - 10px);
+    /* Set to 33.33% for three columns with a 10px gap */
+    margin-bottom: 10px;
+    /* Add a gap between rows */
+}
+
+/* Style the images to have a max width and height */
+#photos-activities img {
+    width: 430px;
+    height: 300px;
+    display: cover;
+    gap: 10px;
+}
