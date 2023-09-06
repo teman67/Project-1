@@ -450,3 +450,9 @@ hr {
 #button-sub {
     font-size: 20px;
 }
+
+.application-received {
+    color: white;
+    font-size: 26px;
+    text-align: center;
+}
