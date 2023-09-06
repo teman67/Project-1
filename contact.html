@@ -53,6 +53,7 @@
           required
         />
         <br />
+        <br />
         <label for="lastName">Last Name: </label>
         <input
           type="text"
@@ -62,6 +63,7 @@
           required
         />
         <br />
+        <br />
         <label for="age">Your Child Age</label>
         <select id="age" name="age">
           <option value="6-8">6 to 8 years</option>
@@ -69,6 +71,7 @@
           <option value="10-12">10 to 12 years</option>
           <option value="12-14">12 to 14 years</option>
         </select>
+        <br />
         <br />
         <label for="email">Email: </label>
         <input
@@ -79,7 +82,50 @@
           required
         />
         <br />
-        <button type="submit">Subscribe</button>
+        <p id="checkbox-p">Which of Our Activities are Interested to You?</p>
+        <br />
+        <div>
+          <input
+            type="checkbox"
+            id="Interactive-Lessons-checkbox"
+            name="Interactive-Lessons"
+          />
+          <label for="Interactive-Lessons-checkbox">Interactive Lessons</label>
+        </div>
+        <div>
+          <input
+            type="checkbox"
+            id="Fun-Experiments-checkbox"
+            name="Fun-Experiments"
+          />
+          <label for="Fun-Experiments-checkbox">Fun Experiments</label>
+        </div>
+        <div>
+          <input
+            type="checkbox"
+            id="Hands-on-Activities-checkbox"
+            name="Hands-on-Activities"
+          />
+          <label for="Hands-on-Activities-checkbox">Hands-on Activities</label>
+        </div>
+        <div>
+          <input type="checkbox" id=" Teamwork-checkbox " name=" Teamwork " />
+          <label for=" Teamwork-checkbox "> Teamwork </label>
+        </div>
+        <br />
+        <div>
+          <label for="feedback">Tell Us How We can Improve the Course?</label>
+          <br />
+          <textarea
+            id="feedback"
+            rows="5"
+            cols="50"
+            name="feedback"
+            placeholder="Your feedback"
+          ></textarea>
+        </div>
+        <br />
+        <button type="submit" id="button-sub">Subscribe</button>
       </form>
     </div>
     <hr />

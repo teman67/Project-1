@@ -283,7 +283,7 @@ footer {
     background-image: url(../images/graphene4.png);
     background-size: cover;
     background-position: center;
-    height: 600px;
+    height: 850px;
 
 }
 
@@ -299,13 +299,13 @@ footer {
     text-align: center;
     font-size: 220%;
     margin-top: 0px;
-    padding-top: 50px;
+    padding-top: 10px;
 }
 
 .signup-form {
-    margin: 80px 5% 0 0;
+    margin: 30px 5% 0 0;
     color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.85);
     max-width: 400px;
     position: absolute;
     left: 10%;
@@ -437,4 +437,16 @@ hr {
     height: 300px;
     display: cover;
     gap: 10px;
+}
+
+#checkbox-p {
+    font-size: 20px;
+    text-align: left;
+    color: white;
+    max-width: 100%;
+
+}
+
+#button-sub {
+    font-size: 20px;
 }
