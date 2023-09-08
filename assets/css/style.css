@@ -4,7 +4,7 @@
 body {
     font-family: Lato, sans-serif;
     background-color: black;
-    font-weight: 300%;
+    font-weight: bold;
 
 }
 
@@ -43,7 +43,6 @@ ul,
 li {
     margin: 0;
     font-family: Lato, sans-serif;
-    font-weight: 500%;
     padding: 0;
     color: rgb(245, 248, 245);
     font-size: 150%;
@@ -209,7 +208,6 @@ footer {
 
 .about-content {
     display: flex;
-    align-items: left;
     flex-wrap: wrap;
     /* Allow content to wrap on smaller screens */
 }
@@ -409,7 +407,6 @@ hr {
 #photos-activities img {
     width: 100%;
     height: 300px;
-    display: cover;
     gap: 10px;
 }
 
@@ -616,7 +613,6 @@ hr {
     #photos-activities img {
         width: 100%;
         height: 250px;
-        display: cover;
         gap: 10px;
     }
 
@@ -706,7 +702,6 @@ hr {
     #photos-activities img {
         width: 100%;
         height: 250px;
-        display: cover;
         gap: 10px;
     }
 
