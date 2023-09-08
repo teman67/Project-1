@@ -486,13 +486,13 @@ hr {
     }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1024px) {
     .order-item {
         flex: 0 0 calc(50% - 20px);
     }
 
     .order-item img {
-        width: 400px;
+        width: 380px;
         height: 300px;
         margin-left: 40px;
     }
@@ -545,14 +545,13 @@ hr {
 }
 
 
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 768px) {
 
-    /*.kid-image {
-        width: 70%;
-        height: 770px;
-        margin: 0 auto;
-        padding: 0px;
-    }*/
+    .kid-image {
+        display: contents;
+    }
+
+
 
     #menu-header {
         margin-left: 20%;
@@ -560,7 +559,7 @@ hr {
     }
 
     header {
-        padding-bottom: 120px;
+        padding-bottom: 80px;
     }
 
     video {
@@ -568,26 +567,34 @@ hr {
         width: 120%;
     }
 
-    .order-images {
-        clear: both;
-        padding: 0;
+    .order-image {
+        display: block;
+        padding-left: 40px;
         margin: auto 0;
     }
 
     .order-item {
         width: 100%;
         float: left;
-
         padding: 0;
 
     }
 
-    #index-content {
+    .order-item img {
+        width: 500px;
+        height: 300px;
+        margin-left: 10%;
+    }
 
+    #index-content {
+        font-size: 22px;
         float: left;
         clear: both;
-        width: 100%;
+        width: 90%;
         padding: 0;
+        font-weight: bold;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
 
     .kid-image {
@@ -601,6 +608,75 @@ hr {
     .about img {
         max-width: 160px;
         max-height: 220px;
-        margin-left: 30%;
+        margin-left: 20%;
+    }
+
+    #photos-activities img {
+        width: 100%;
+        height: 250px;
+        display: cover;
+        gap: 10px;
+    }
+
+    .about p {
+        max-width: 45%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .order-item {
+        flex: 0 0 calc(70% - 20px);
+    }
+
+    .order-item img {
+        width: 400px;
+        height: 300px;
+        margin-left: 40px;
+    }
+
+    #menu-header {
+        clear: left;
+        float: left;
+    }
+
+    header {
+        padding-bottom: 80px;
+    }
+
+    video {
+        max-height: 120%;
+    }
+
+    .order-images {
+        margin-right: 70px;
+        column-count: 2;
+    }
+
+    .order-images img {
+        width: 100px;
+        height: 80px;
+        column-count: 2;
+    }
+
+    #index-content {
+        font-size: 20px;
+    }
+
+    .about img {
+        max-width: 160px;
+        max-height: 220px;
+        margin-left: 40%;
+    }
+
+    .about p {
+        max-width: 37%;
+    }
+
+    .signup-form {
+        margin: 20px 5% 0 0;
+    }
+
+    .subscription-form p {
+        max-width: 100%;
     }
 }
