@@ -547,6 +547,10 @@ hr {
 
 @media screen and (max-width: 768px) {
 
+    #logo {
+        font-size: 32px;
+    }
+
     .kid-image {
         display: contents;
     }
@@ -619,62 +623,115 @@ hr {
     .about p {
         max-width: 45%;
     }
+
+    footer p {
+        font-size: 120%;
+    }
 }
 
 @media screen and (max-width: 480px) {
-    .order-item {
-        flex: 0 0 calc(70% - 20px);
-    }
 
-    .order-item img {
-        width: 400px;
-        height: 300px;
-        margin-left: 40px;
+    #logo {
+        font-size: 30px;
     }
 
     #menu-header {
-        clear: left;
-        float: left;
+        font-size: 14px;
+    }
+
+    .kid-image {
+        display: contents;
+    }
+
+    #menu-header {
+        margin-left: 20%;
+        width: 70%;
     }
 
     header {
-        padding-bottom: 80px;
+        padding-bottom: 100px;
     }
 
     video {
-        max-height: 120%;
+        height: 120%;
+        width: 120%;
     }
 
-    .order-images {
-        margin-right: 70px;
-        column-count: 2;
+    .order-image {
+        display: block;
+        padding-left: 40px;
+        margin: auto 0;
     }
 
-    .order-images img {
-        width: 100px;
-        height: 80px;
-        column-count: 2;
+    .order-item {
+        width: 100%;
+        float: left;
+        padding-bottom: 10px;
+
+    }
+
+    .order-item img {
+        width: 300px;
+        height: 200px;
+        margin-left: 10%;
     }
 
     #index-content {
         font-size: 20px;
+        float: left;
+        clear: both;
+        width: 100%;
+        padding: 0;
+        font-weight: bold;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .kid-image {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+        margin: auto 0;
     }
 
     .about img {
         max-width: 160px;
         max-height: 220px;
-        margin-left: 40%;
+        margin-left: 20%;
+    }
+
+    #photos-activities img {
+        width: 100%;
+        height: 250px;
+        display: cover;
+        gap: 10px;
     }
 
     .about p {
-        max-width: 37%;
+        max-width: 100%;
+        margin: 20px 10px 0 10px;
+
     }
 
-    .signup-form {
-        margin: 20px 5% 0 0;
+    .text-main p {
+        text-align: left;
+
+    }
+
+    footer p {
+        font-size: 100%;
+    }
+
+    #h2-activities {
+        font-size: 30px;
+    }
+
+    .subscription-form h3 {
+        font-size: 160%;
     }
 
     .subscription-form p {
-        max-width: 100%;
+        font-size: 130%;
     }
 }
