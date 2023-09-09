@@ -757,7 +757,7 @@ hr {
     }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 380px) {
 
     #logo {
         font-size: 20px;
@@ -857,6 +857,10 @@ hr {
 
     .icon-text-container {
         font-size: 16px;
+    }
+
+    .lessons {
+        margin-left: 10px;
     }
 
     .lessons h2 {
