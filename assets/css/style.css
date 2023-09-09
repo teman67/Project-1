@@ -668,6 +668,10 @@ hr {
 
     }
 
+    .text-main {
+        margin-left: 0px;
+    }
+
     .text-main ul li {
         font-size: 100%;
     }
@@ -790,7 +794,7 @@ hr {
 
     .order-image {
         display: block;
-        padding-left: 10px;
+        padding-left: 40px;
         margin: auto 0;
     }
 
