@@ -794,7 +794,7 @@ hr {
 
     .order-image {
         display: block;
-        padding-left: 40px;
+        padding-left: 30px;
         margin: auto 0;
     }
 
@@ -820,7 +820,7 @@ hr {
     }
 
     #index-content {
-        font-size: 18px;
+        font-size: 14px;
         float: left;
         clear: both;
         width: 90%;
@@ -856,29 +856,40 @@ hr {
     }
 
     .icon-text-container {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .lessons h2 {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .about p {
         max-width: 100%;
         margin: 20px 10px 0 10px;
+        font-size: 14px;
 
     }
 
     .text-main p {
         text-align: left;
-        font-size: 16px;
+        font-size: 12px;
 
     }
 
+    .text-main ul {
+        margin-left: 5px;
+    }
+
     footer p {
-        font-size: 100%;
+        font-size: 80%;
         text-align: center;
         margin-top: 10px;
+    }
+
+    p,
+    ul,
+    li {
+        font-size: 140%;
     }
 
     footer {
@@ -887,7 +898,7 @@ hr {
     }
 
     #h2-activities {
-        font-size: 24px;
+        font-size: 20px;
         letter-spacing: 2px;
     }
 
