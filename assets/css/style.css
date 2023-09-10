@@ -428,6 +428,13 @@ hr {
     text-align: center;
 }
 
+@media screen and (max-width: 1500px) {
+    .about img {
+        max-width: 160px;
+        max-height: 180px;
+    }
+}
+
 /* Add responsive styles here */
 @media screen and (max-width: 1200px) {
 
