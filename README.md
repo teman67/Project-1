@@ -42,7 +42,7 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 - __Contact Page__
 
-  - On this page, users have the opportunity to enroll in the course by submitting their full nam, email address and their child's age.
+  - On this page, users have the opportunity to enroll in the course by submitting their full name, email address and their child's age.
   - Additionally, they can share valuable feedback about the course content, allowing us to improve the course.
 
 ![Contact](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact.png)
