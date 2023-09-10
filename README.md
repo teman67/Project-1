@@ -70,9 +70,9 @@ If this section grows too long, you may want to split it off into a separate fil
   - No errors were found when passing through the official [(Jigsaw) validator](https://github.com/teman67/Project-1/blob/main/readme_folder/W3C%20CSS%20Validator%20results%20for%20TextArea_Tiny%20World%20for%20Your%20Tinies.html)
  
   - The Google Chrome lighthouse tool was used to check the website and the scores for each pages are shown bellow:
-  - [Scores for Home page](https://github.com/teman67/Project-1/blob/main/readme_folder/Home-scores.png)
-  - [Scores for Activities page](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities-scores.png)
-  - [Scores for Contact page](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact-scores.png)
+  - ![Scores for Home page](https://github.com/teman67/Project-1/blob/main/readme_folder/Home-scores.png)
+  - ![Scores for Activities page](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities-scores.png)
+  - ![Scores for Contact page](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact-scores.png)
     
 
 ### Unfixed Bugs
