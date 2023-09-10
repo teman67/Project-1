@@ -38,14 +38,14 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
   - On this page, users will discover information about the educator, including details about his qualifications and expertise.
   - Following that, users will encounter four succinct bullet points that emphasize the core aims and concepts of the course.
 
-![Gallery](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities.png)
+![Activities](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities.png)
 
 - __Contact Page__
 
   - On this page, users have the opportunity to enroll in the course by submitting their full name and email address.
   - Additionally, they can share valuable feedback about the course content, allowing us to improve the course.
 
-![Sign Up](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact.png)
+![Contact](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
