@@ -53,13 +53,10 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- I have checked the website on different screen sizes and it works well.
+- To increase the performance of the website, I changed the images from .jpg or .png to .webp when the size of the images were too large.
+- On the Home page, the position of the images is dependent on which cellphone size is used. I could not fix this issue.
+- The webpage works well when I used Google chrome, Firefox, and Microsoft Edge web browsers.
 
 
 ### Validator Testing 
