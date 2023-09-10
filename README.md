@@ -14,12 +14,12 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 ![Nav Bar](https://github.com/teman67/Project-1/blob/main/readme_folder/Navigation_bar.png)
 
-- __The landing page image__
+- __The landing page video__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - On the landing page, you'll find a video introducing the concept of Nano size to kids using easy-to-understand language.
+  - The video is accompanied by a brief paragraph explaining the webpage's purpose.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/teman67/Project-1/blob/main/readme_folder/landing_page.png)
 
 - __Club Ethos Section__
 
