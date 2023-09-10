@@ -19,27 +19,19 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
   - On the landing page, you'll find a video introducing the concept of Nano size to kids using easy-to-understand language.
   - The video is accompanied by a brief paragraph explaining the webpage's purpose.
 
-![Landing Page](https://github.com/teman67/Project-1/blob/main/readme_folder/landing_page.png)
+![Landing Page video](https://github.com/teman67/Project-1/blob/main/readme_folder/landing_page.png)
 
 - __The landing page text and images__
 
 - Here, three images are displayed, each accompanied by relevant text. These images provide users with a clear understanding of the course's content and how children will engage with the world of Nano.
   
-![Club Ethos](https://github.com/teman67/Project-1/blob/main/readme_folder/landing_page2.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![landing page text and images](https://github.com/teman67/Project-1/blob/main/readme_folder/landing_page2.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - In the footer section, you'll find links to Love Running's pertinent social media platforms. These links are designed to open in new tabs, ensuring a seamless user experience. The footer holds significant value for users by promoting and facilitating ongoing connectivity through social media channels.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/teman67/Project-1/blob/main/readme_folder/footer.png)
 
 - __Gallery__
 
