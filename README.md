@@ -40,11 +40,12 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 ![Gallery](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities.png)
 
-- __The Sign Up Page__
+- __Contact Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - On this page, users have the opportunity to enroll in the course by submitting their full name and email address.
+  - Additionally, they can share valuable feedback about the course content, allowing us to improve the course.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact.png)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
