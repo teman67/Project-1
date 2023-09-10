@@ -40,6 +40,9 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 ![Activities](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities.png)
 
+  - The Activities page showcases six engaging images to inspire users to enroll in our programs.
+![Activities Images](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities_images.png)
+
 - __Contact Page__
 
   - On this page, users have the opportunity to enroll in the course by submitting their full name, email address and their child's age.
