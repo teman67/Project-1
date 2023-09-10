@@ -89,4 +89,5 @@ The live link can be found here - https://teman67.github.io/Project-1/index.html
 
 - The images of the website were tooken from google images.
 - The video on the home page was downloaded from Youtube (https://www.youtube.com/watch?v=xW8Oocswn9s) and then edited by KAPWING online website.
-- The icons in the footer and Activities page were taken from [Font Awesome](https://fontawesome.com/)
+- The icons in the footer and Activities page were taken from [Font Awesome](https://fontawesome.com/).
+- The fonts are imported from Google Fonts.
