@@ -47,13 +47,9 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 ![Contact](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- Introducing another page where users can access real videos and images would be highly advantageous.
 
 ## Testing 
 
@@ -69,9 +65,9 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://github.com/teman67/Project-1/blob/main/readme_folder/Showing%20results%20for%20contents%20of%20text-input%20area_Tiny%20World%20for%20Your%20Tinies.html)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://github.com/teman67/Project-1/blob/main/readme_folder/W3C%20CSS%20Validator%20results%20for%20TextArea_Tiny%20World%20for%20Your%20Tinies.html)
 
 ### Unfixed Bugs
 
