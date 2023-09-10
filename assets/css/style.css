@@ -215,7 +215,7 @@ footer {
 
 .about img {
     max-width: 170px;
-    max-height: 240px;
+    max-height: 170px;
     /* Adjust the image width as needed */
     height: auto;
     margin-right: 30px;
@@ -428,12 +428,6 @@ hr {
     text-align: center;
 }
 
-@media screen and (max-width: 1500px) {
-    .about img {
-        max-width: 160px;
-        max-height: 180px;
-    }
-}
 
 /* Add responsive styles here */
 @media screen and (max-width: 1200px) {
@@ -476,11 +470,7 @@ hr {
         font-size: 21px;
     }
 
-    .about img {
-        max-width: 160px;
-        max-height: 180px;
-    }
-
+   
     .signup-form {
         margin: 20px 5% 0 0;
     }
@@ -530,8 +520,6 @@ hr {
     }
 
     .about img {
-        max-width: 160px;
-        max-height: 180px;
         margin-left: 40%;
     }
 
@@ -616,8 +604,7 @@ hr {
     }
 
     .about img {
-        max-width: 160px;
-        max-height: 180px;
+        
         margin-left: 20%;
     }
 
@@ -709,8 +696,6 @@ hr {
     }
 
     .about img {
-        max-width: 160px;
-        max-height: 180px;
         margin-left: 20%;
     }
 
@@ -847,8 +832,6 @@ hr {
     }
 
     .about img {
-        max-width: 160px;
-        max-height: 180px;
         margin-left: 20%;
     }
 
