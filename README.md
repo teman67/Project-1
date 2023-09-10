@@ -33,12 +33,12 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 ![Footer](https://github.com/teman67/Project-1/blob/main/readme_folder/footer.png)
 
-- __Gallery__
+- __Activities Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - On this page, users will discover information about the educator, including details about his qualifications and expertise.
+  - Following that, users will encounter four succinct bullet points that emphasize the core aims and concepts of the course.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://github.com/teman67/Project-1/blob/main/readme_folder/Activities.png)
 
 - __The Sign Up Page__
 
