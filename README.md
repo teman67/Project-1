@@ -66,8 +66,10 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://github.com/teman67/Project-1/blob/main/readme_folder/Showing%20results%20for%20contents%20of%20text-input%20area_Tiny%20World%20for%20Your%20Tinies.html)
+![W3C_validator](https://github.com/teman67/Project-1/blob/main/readme_folder/W3C_validator.png)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://github.com/teman67/Project-1/blob/main/readme_folder/W3C%20CSS%20Validator%20results%20for%20TextArea_Tiny%20World%20for%20Your%20Tinies.html)
+![Jigsaw_validator](https://github.com/teman67/Project-1/blob/main/readme_folder/Jigsaw_validator.png)
  
   - The Google Chrome lighthouse tool was used to check the website and the scores for each pages are shown bellow:
   - ![Scores for Home page](https://github.com/teman67/Project-1/blob/main/readme_folder/Home-scores.png)
