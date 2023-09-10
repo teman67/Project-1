@@ -197,6 +197,10 @@ footer {
     bottom: 0;*/
 }
 
+footer a {
+    text-decoration: none;
+}
+
 
 /* Add this CSS to your existing stylesheet */
 .about {
