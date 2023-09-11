@@ -10,7 +10,7 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 - __Navigation Bar__
   
-- Present on every page, our fully responsive navigation bar is consistent across the board, featuring links to the Logo, Home page, Activities, and Contact pages. This uniformity ensures effortless navigation throughout the entire website. This navigation feature simplifies the user experience, enabling seamless movement between pages on any device.
+  - Present on every page, our fully responsive navigation bar is consistent across the board, featuring links to the Logo, Home page, Activities, and Contact pages. This uniformity ensures effortless navigation throughout the entire website. This navigation feature simplifies the user experience, enabling seamless movement between pages on any device.
 
 ![Nav Bar](https://github.com/teman67/Project-1/blob/main/readme_folder/Navigation_bar.png)
 
