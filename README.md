@@ -62,7 +62,7 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 - I have checked the website on different screen sizes and it works well.
 - To increase the performance of the website, I changed the images from .jpg or .png to .webp when the size of the images were too large.
 - On the Home page, the position of the images is dependent on which cellphone size is used. I could not fix this issue.
-- The webpage works well when I used Google chrome, Firefox, and Microsoft Edge web browsers.
+- The webpage works well when I used Google chrome, Firefox, Opera, and Microsoft Edge web browsers.
 
 
 ### Validator Testing 
