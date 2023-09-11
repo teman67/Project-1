@@ -23,7 +23,7 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 - __The landing page text and images__
 
-- Here, three images are displayed, each accompanied by relevant text. These images provide users with a clear understanding of the course's content and how children will engage with the world of Nano.
+  - Here, three images are displayed, each accompanied by relevant text. These images provide users with a clear understanding of the course's content and how children will engage with the world of Nano.
   
 ![landing page text and images](https://github.com/teman67/Project-1/blob/main/readme_folder/landing_page2.png)
 
@@ -99,3 +99,4 @@ The live link can be found here - https://teman67.github.io/Project-1/index.html
 - The video on the home page was downloaded from Youtube (https://www.youtube.com/watch?v=xW8Oocswn9s) and then edited by KAPWING online website.
 - The icons in the footer and Activities page were taken from [Font Awesome](https://fontawesome.com/).
 - The fonts are imported from Google Fonts.
+- The Readme.md template was obtained from Code Institute.
