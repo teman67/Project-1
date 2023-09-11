@@ -29,7 +29,7 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 - __The Footer__ 
 
-  - In the footer section, you'll find links to Love Running's pertinent social media platforms. These links are designed to open in new tabs, ensuring a seamless user experience. The footer holds significant value for users by promoting and facilitating ongoing connectivity through social media channels.
+  - In the footer section, you'll find links to Tiny World for Your Tinies's pertinent social media platforms. These links are designed to open in new tabs, ensuring a seamless user experience. The footer holds significant value for users by promoting and facilitating ongoing connectivity through social media channels.
 
 ![Footer](https://github.com/teman67/Project-1/blob/main/readme_folder/footer.png)
 
