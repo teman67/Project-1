@@ -50,6 +50,9 @@ Through colorful visuals, easy-to-understand explanations, and hands-on activiti
 
 ![Contact](https://github.com/teman67/Project-1/blob/main/readme_folder/Contact.png)
 
+  - When the user submit the form, they conduct to the forms-from-users page as bellow:
+![Subscription](https://github.com/teman67/Project-1/blob/main/readme_folder/Subscription.png)
+
 ### Features Left to Implement
 
 - Introducing another page where users can access real videos and images of the course would be highly advantageous.
